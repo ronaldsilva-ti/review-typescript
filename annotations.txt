@@ -1,0 +1,3 @@
+npx tsc index.ts -> compilar para JS
+npx tsc --init -> gerar arquivo tsconfig.json e suas config
+npx tsc --> gerar dist com compilacao para JS, após config
